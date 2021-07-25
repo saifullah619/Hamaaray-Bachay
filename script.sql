@@ -1,8 +1,7 @@
 /*
 |-------------------------------------------|
 |       DATABASE SYSTEMS - SEMESTER PROJECT |
-|   Muhammad Farjad Ilyas   -   18I-0436    |
-|   Omar Hayat              -   18I-0511    |
+
 |   Saif Ullah Dar          -   18I-0599    |
 |-------------------------------------------|
 */
